@@ -1,0 +1,10 @@
+openai
+flask
+PyMuPDF
+python-docx
+PyPDF2
+python-dotenv
+langchain
+word2number
+tiktoken
+faiss-cpu
